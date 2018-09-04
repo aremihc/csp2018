@@ -1,0 +1,3 @@
+#example1 {
+    background: url(background.jpg) right bottom no-repeat, url(home.jpg) left top repeat;
+}
